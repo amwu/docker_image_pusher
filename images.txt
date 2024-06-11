@@ -1,4 +1,2 @@
 nginx
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
 cym1102/nginxwebui:latest
