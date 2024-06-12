@@ -4,3 +4,7 @@ jitsi/web:unstable
 jitsi/prosody:unstable
 jitsi/jicofo:unstable
 jitsi/jvb:unstable
+jitsi/web:stable
+jitsi/prosody:stable
+jitsi/jicofo:stable
+jitsi/jvb:stable
