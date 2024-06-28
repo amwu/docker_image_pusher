@@ -14,3 +14,9 @@ redis:7.2.3
 livekit/livekit-server:latest
 livekit/livekit-server:v1.7
 livekit/livekit-server:v1.7.0
+livekit/egress:latest
+livekit/egress:v1.8
+livekit/egress:v1.8.5
+livekit/ingress:latest
+livekit/ingress:v1.4
+livekit/ingress:v1.4.2
