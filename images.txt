@@ -11,3 +11,6 @@ jitsi/jvb:stable
 minio/minio:RELEASE.2023-07-18T17-49-40Z
 mysql:8.0.33
 redis:7.2.3
+livekit/livekit-server:latest
+livekit/livekit-server:v1.7
+livekit/livekit-server:v1.7.0
