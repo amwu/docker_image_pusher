@@ -20,3 +20,4 @@ livekit/egress:v1.8.5
 livekit/ingress:latest
 livekit/ingress:v1.4
 livekit/ingress:v1.4.2
+opensnail/snail-job:1.1.1
